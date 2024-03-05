@@ -1,6 +1,6 @@
 # Project 4- Team Vega
 ## Feb 29, 2024
-─ Matias L
+- Matias L
 - Jai'lyn J
 - Hunter S
 - Cassie W
