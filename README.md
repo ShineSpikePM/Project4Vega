@@ -13,6 +13,10 @@ The main risk factor for stroke is high blood pressure. Other risk factors inclu
 The primary objective of this project is to build a predictive model that can accurately assess an individual's risk of experiencing a stroke based on various demographic, clinical, and dietary factors.
 
 We will be using Pandas and Tableau for project requirements.
+
+### Tableau of Visualizations
+https://public.tableau.com/shared/9TNF7FXNY?:display_count=n&:origin=viz_share_link
+
 ### Dataset:   
 
 https://www.kaggle.com/datasets/zzettrkalpakbal/full-filled-brain-stroke-dataset
