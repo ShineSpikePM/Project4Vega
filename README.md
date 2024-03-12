@@ -17,6 +17,9 @@ We will be using Pandas and Tableau for project requirements.
 ### Tableau of Visualizations
 https://public.tableau.com/views/BrainStrokePrediction/BrainStrokePredication?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
+### Link to Presentation
+https://docs.google.com/presentation/d/1Zb0r4An2rutCHdceXlx2VmLdq48D1i6RiixnwsHZIUY/edit?usp=sharing
+
 ### Dataset:   
 
 https://www.kaggle.com/datasets/zzettrkalpakbal/full-filled-brain-stroke-dataset
