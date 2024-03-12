@@ -15,7 +15,7 @@ The primary objective of this project is to build a predictive model that can ac
 We will be using Pandas and Tableau for project requirements.
 
 ### Tableau of Visualizations
-https://public.tableau.com/shared/9TNF7FXNY?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/BrainStrokePrediction/BrainStrokePredication?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 ### Dataset:   
 
